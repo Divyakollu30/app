@@ -1,28 +1,15 @@
-<!-- MINIMALIST TECH HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=0d1117&height=120&text=KOLLU%20DIVYA&fontSize=50&fontColor=00f2fe&animation=twinkle" width="100%" />
+<h1 align="center">Hi 👋, I'm KOLLU DIVYA</h1>
+<h3 align="center">A passionate frontend developer and data scientist</h3>
+
+- 🤝 I’m looking for help with **Ai career guidance**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Divyakollu30](https://github.com/Divyakollu30)
+
+- 📫 How to reach me **23h41a6130@bvcits.edu.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<!-- QUOTE & SOCIAL ALIGNMENT -->
-<p align="center">
-  <code>⚡ B.Tech Student | Artificial Intelligence & Machine Learning</code>
-  <br><br>
-  <a href="https://linkedin.com/in/kollu-divya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kolludivya6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Amalapuram,%20IN-00f2fe?style=flat-square" />
-</p>
-
----
-
-### 🌐 System Overview
-> B.Tech student specializing in Artificial Intelligence and Machine Learning with hands-on experience in full-stack Python development and data analytics. Proficient in optimizing relational databases using SQL, building web applications, and preprocessing data for machine learning workflows. Seeking an opportunity to leverage software development and analytical skills in a core technology role.
-
----
-
-### 🛠️ Core Capabilities
-
-```⚡
-[Programming Languages] ──► Python ❖ C
-[Web Development] ──────► HTML ❖ CSS
-[Databases] ────────────► MySQL ❖ SQL
-[Tools & Technologies] ──► Visual Studio Code ❖ Git & GitHub
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
